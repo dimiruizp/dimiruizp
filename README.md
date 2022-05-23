@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Dimitri Ruiz, I'm from Málaga, Southern Spain.
 
 <!--
 **dimiruizp/dimiruizp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
