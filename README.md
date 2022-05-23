@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm Dimitri Ruiz. I'm from Málaga, Southern Spain.
 I love photography, music & computers.
+#
+I'd like to get inside Git more and more, and probably this would be the perfect moment to do it.
 <!--
 **dimiruizp/dimiruizp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
